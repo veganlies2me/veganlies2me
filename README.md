@@ -8,7 +8,7 @@
 ### i'm a jack of all trades . . . master of none . . . doing whatever the hell comes in my mind...
 
 #### go check my github repos or maybe my other stuff on other sites, which are down below:
-<a href="https://mastodon.gamedev.place/@vl2m" title="mastodon" alt="mastodon">![](./buttons/mastodon.gif)</a>
+<a href="https://undefined.social/@ev3" title="mastodon" alt="mastodon">![](./buttons/mastodon.gif)</a>
 <a href="https://bsky.app/profile/ev3lindaboi.bsky.social" title="bluesky" alt="bluesky">![](./buttons/bluesky.gif)</a>
 <a href="https://www.youtube.com/@vl2mstudio" title="youtube #1" alt="youtube #1">![](./buttons/youtube1.gif)</a>
 <a href="https://www.youtube.com/@evelin1006" title="youtube #2" alt="youtube #2">![](./buttons/youtube2.gif)</a>
