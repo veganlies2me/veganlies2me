@@ -5,7 +5,7 @@
   <img src="./logo.png" />
 </p>
 
-### i'm a jack of all trades . . . master of none . . . doing whatever the hell comes in my mind...
+### i'm a jack of all trades . . . master of none . . . doing whatever comes in my mind...
 
 #### go check my github repos or maybe my other stuff on other sites, which are down below:
 <a href="https://undefined.social/@ev3" title="mastodon" alt="mastodon">![](./buttons/mastodon.gif)</a>
